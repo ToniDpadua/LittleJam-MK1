@@ -4,7 +4,7 @@ Say hello to my little jam – ESP32 multi-protocol jammer (300 MHz – 2.4 GHz)
 # Little Jam MK1
 ### Say hello to my little jam
 
-![Little Jam MK1](https://raw.githubusercontent.com/SEU_USUARIO/LittleJam-MK1/main/images/logo.png)
+![Little Jam MK1](https://raw.githubusercontent.com/ToniDpadua/LittleJam-MK1/main/images/logo.png)
 
 ESP32-powered multi-band RF disruptor capable of operating from 300 MHz to 2.4 GHz using:
 - 2× CC1101 (sub-1 GHz)
