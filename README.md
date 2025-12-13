@@ -70,4 +70,3 @@ MIT © 2025 ToniDpadua
 
 Say hello to my little jam.
 
-![Esquematico Placeholder](https://raw.githubusercontent.com/ToniDpadua/LittleJam-MK1/main/docs/LittleJam_MK1.pdf)
